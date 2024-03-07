@@ -1,6 +1,6 @@
 >nawabwasimrahman@gmail.com
->Phn no: 8473073955;
->Address:Vill:Balibatgaon, Jelehuwagaon, Dist: Golaghat, Assam, Pin: 785614
+>>Phn no: 8473073955;
+>>Address:Vill:Balibatgaon, Jelehuwagaon, Dist: Golaghat, Assam, Pin: 785614
 
 **EDUCATION**
 
