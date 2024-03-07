@@ -27,10 +27,10 @@
    >**Application Based:** Microsoft Office | Excel and Advance Excel |Power BI <br>
 
 **EXPERIENCE**
-      >**KAZIRANGA UNIVERSITY | LAB ASSISTANT<br>**
-            June 2022 - Present | Jorhat, ASSAM<br>
-      >**AUTHBRIDGE | IDENTITY VERIFICATION INTERN<br>**
-            March 2019 – May 2019 | Gurugram, Haryana<br>
+>**KAZIRANGA UNIVERSITY | LAB ASSISTANT<br>**
+ >>June 2022 - Present | Jorhat, ASSAM<br>
+ >**AUTHBRIDGE | IDENTITY VERIFICATION INTERN<br>**
+  >>March 2019 – May 2019 | Gurugram, Haryana<br>
 
 **PROJECTS**
       > • Blood Bank Information System (Minor Project) 4 months<br>
