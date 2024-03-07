@@ -29,6 +29,7 @@
 **EXPERIENCE**
 >**KAZIRANGA UNIVERSITY - LAB ASSISTANT<br>**
  >>June 2022 - Present - Jorhat, ASSAM<br>
+
 >**AUTHBRIDGE - IDENTITY VERIFICATION INTERN<br>**
   >>March 2019 – May 2019 - Gurugram, Haryana<br>
 
