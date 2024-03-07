@@ -5,10 +5,10 @@
 >>Address:Vill:Balibatgaon, Jelehuwagaon, Dist: Golaghat, Assam, Pin: 785614
 
 **EDUCATION**
-
-  ##Kaziranga University
-      >MSc In Information Technology (June 2019 | Jorhat, Assam)
-      >CGPA: 7.69
+>>**Kaziranga University**
+      >>MSc In Information Technology (June 2019 | Jorhat, Assam)
+      >
+      >>CGPA: 7.69
       
   ##Kaziranga University
   
