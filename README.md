@@ -1,13 +1,10 @@
->nawabwasimrahman@gmail.com
->
->>Phn no: 8473073955;
->
+>nawabwasimrahman@gmail.com <br>
+>>Phn no: 8473073955;<br>
 >>Address:Vill:Balibatgaon, Jelehuwagaon, Dist: Golaghat, Assam, Pin: 785614
 
 **EDUCATION**
->>**Kaziranga University**
-      >>MSc In Information Technology (June 2019 | Jorhat, Assam)
-      >
+>>**Kaziranga University**<br>
+      >>MSc In Information Technology (June 2019 | Jorhat, Assam) <br>
       >>CGPA: 7.69
       
   ##Kaziranga University
