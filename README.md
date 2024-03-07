@@ -17,26 +17,26 @@
   >**Don Bosco High School Dergaon, Assam**<br>
       HSLC. July 2014| Golagaht, Assam<br>
       
-**COURSEWORK**<br>
+**COURSEWORK**
       >**GRADUATE**: Big Data and Data Science | Machine Learning | Deep Learning <br>
       >**UNDERGRADUATE**: Web Development | Database Management | MIS Software | ERP System <br>
       
-**SKILLS**<br>
+**SKILLS**
    >**PROGRAMMING:** Python • JavaScript • C • C++ • CSS • PHP<br>
    >Familiar with:** MySQL | MIS Software<br>
    >**Application Based:** Microsoft Office | Excel and Advance Excel |Power BI <br>
 
-**EXPERIENCE**<br>
+**EXPERIENCE**
       >**KAZIRANGA UNIVERSITY | LAB ASSISTANT<br>**
             June 2022 - Present | Jorhat, ASSAM<br>
       >**AUTHBRIDGE | IDENTITY VERIFICATION INTERN<br>**
             March 2019 – May 2019 | Gurugram, Haryana<br>
 
-**PROJECTS**<br>
+**PROJECTS**
       > • Blood Bank Information System (Minor Project) 4 months<br>
             Web based system for managing details of blood and donor information.<br>
       
-**ACHIEVEMENTS AND AWARDS**<br>
+**ACHIEVEMENTS AND AWARDS**
       > • Partition Certificate for Recent trends in Machine Learning and Soft Computing (RTMLSC 2018), Durgapur, West Bengal<br>
       > • Good performer Certificate in Industrial Training Programme on Java from Multisoft System in 2015.<br>
       • Organizing and Managing Dance team in Talent Tantra as a coordinator since 2015.<br>
