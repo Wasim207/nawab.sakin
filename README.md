@@ -17,9 +17,9 @@
   >**Don Bosco High School Dergaon, Assam**<br>
       HSLC. July 2014| Golagaht, Assam<br>
       
-**COURSEWORK**
-      GRADUATE: Big Data and Data Science | Machine Learning | Deep Learning <br>
-      UNDERGRADUATE: Web Development | Database Management | MIS Software | ERP System <br>
+**COURSEWORK**<br>
+      >>**GRADUATE**: Big Data and Data Science | Machine Learning | Deep Learning <br>
+      >>**UNDERGRADUATE**: Web Development | Database Management | MIS Software | ERP System <br>
       
 **SKILLS**<br>
    PROGRAMMING: Python • JavaScript • C • C++ • CSS • PHP<br>
