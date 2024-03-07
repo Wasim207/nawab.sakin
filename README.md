@@ -2,7 +2,8 @@
 >Phn no: 8473073955;<br>
 >Address:Vill-Balibatgaon, Jelehuwagaon, Dist: Golaghat, Assam, Pin: 785614
 
-#EDUCATION#
+#EDUCATION
+
 >**Kaziranga University**<br>
       MSc In Information Technology (June 2019 | Jorhat, Assam) <br>
       CGPA: 7.69
