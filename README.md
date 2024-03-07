@@ -12,10 +12,11 @@
       CGPA: 7.48<br>
       
   >**DKD College Dergaon**<br>
-      HS. July 2014| Golagaht, Assam
+      HS. July 2014| Golagaht, Assam<br>
       
-  >**Don Bosco High School Dergaon, Assam**
-      HSLC. July 2014| Golagaht, Assam
+  >**Don Bosco High School Dergaon, Assam**<br>
+      HSLC. July 2014| Golagaht, Assam<br>
+      
 **COURSEWORK**
       GRADUATE: Big Data and Data Science | Machine Learning | Deep Learning <br>
       UNDERGRADUATE: Web Development | Database Management | MIS Software | ERP System <br>
