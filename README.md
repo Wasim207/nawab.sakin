@@ -18,12 +18,12 @@
       HSLC. July 2014| Golagaht, Assam<br>
       
 **COURSEWORK**
-      >**GRADUATE**: Big Data and Data Science | Machine Learning | Deep Learning <br>
-      >**UNDERGRADUATE**: Web Development | Database Management | MIS Software | ERP System <br>
+>**GRADUATE**: Big Data and Data Science | Machine Learning | Deep Learning <br>
+ >**UNDERGRADUATE**: Web Development | Database Management | MIS Software | ERP System <br>
       
 **SKILLS**
    >**PROGRAMMING:** Python • JavaScript • C • C++ • CSS • PHP<br>
-   >Familiar with:** MySQL | MIS Software<br>
+   >**Familiar with:** MySQL | MIS Software<br>
    >**Application Based:** Microsoft Office | Excel and Advance Excel |Power BI <br>
 
 **EXPERIENCE**
